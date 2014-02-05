@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>VirtualBox, Dual Monitors and Linux</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+    </head>
+    <body>
+
+        <div class="site">
+          <div class="header">
+            <h1 class="title"><a href="/">Luke Dubber: Techno jargon</a></h1>
+            <a class="extra" href="/">home</a>
+          </div>
+
+          <h2>VirtualBox, Dual Monitors and Linux</h2>
+<p class="meta">09 May 2012</p>
+
+<div class="post">
+<p>So I just tried out Ubuntu 12.04 and I am not sold on the interface, overall I still am kind of fond of Windows type desktops (<a href="http://linuxmint.com/" target="_blank">Linux Mint </a>is favorite so far). But this post is not about that, its about multi monitor setups.</p>
+
+<p>Now a little background on my host machine, its Windows 7 64bit with VirtualBox and dual monitors. It seems to have no issue powering through virtual machines 32bit or 64bit. I have <a href="http://www.virtualbox.org" target="_blank">VirtualBox </a>(get a copy!) 4.1.14; it supports more then one monitor, now I have read that previous version did as well but I have not tried this in over a year since my last attempts were unsuccessful.</p>
+
+<p>Steps:
+<ol>
+    <li>Install <a href="https://www.virtualbox.org/wiki/Downloads">VirtualBox</a> (its free, Windows, Linux and Mac)</li>
+    <li>Once you have created your virtual machine (VM) edit your settings.</li>
+    <li>Go to Display section and increase the Monitor Count.</li>
+    <li><strong>Make sure to increase your Video Memory</strong>. If you don&#39;t it won&#39;t work (I should know, took me a bit to figure out that was my issue). I would go with the maximum 128MB if possible.</li>
+    <li>Install your OS (you can do this before step 3&amp;4).</li>
+    <li>Make sure to install the VirtualBox guest additions.</li>
+    <li>Then reboot and once you are back in you should be able to use more than one.</li>
+</ol>
+My best results where in full screen mode (right crtl+f) or seamless mode (right ctrl+l). It was great to have use of my two monitors while in Linux virtual machine. Now you can do this for Windows as well.</p>
+
+<p>Have fun!</p>
+
+</div>
+
+
+          <div class="footer">
+            <div class="contact">
+              <p>
+                Luke Dubber<br />
+                DevOps<br />
+                luke at ldubber.net
+              </p>
+            </div>
+            <div class="contact">
+              <p>
+                <a href="https://github.com/lukedubber">github.com/lukedubber</a><br />
+		<a href="http://www.linkedin.com/pub/luke-dubber/40/40b/9a">LinkedIn</a><br />
+                <a href="https://twitter.com/lukedubber">twitter.com/lukedubber</a><br />
+              </p>
+            </div>
+<a class="twitter-timeline"  href="https://twitter.com/LukeDubber"  data-widget-id="295971088238776321">Tweets by @LukeDubber</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+          </div>
+        </div>
+
+    </body>
+</html>

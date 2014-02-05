@@ -1,0 +1,25 @@
+--- 
+layout: post
+status: publish
+published: true
+title: "WSUS 3.0 SP2: Error 80244019"
+author: ldubber
+author_login: ldubber
+author_email: luke.dubber@gmail.com
+author_url: http://www.lukedubber.com
+wordpress_id: 83
+wordpress_url: http://www.lukedubber.com/?p=83
+date: 2013-12-11 09:35:36 -09:00
+categories: 
+- System Administration
+tags: 
+- Error 80244019
+- WSUS 3.0 SP2
+comments: []
+
+---
+So I was working with WSUS the other day and ran into this annoying issue with WSUS 3.0 SP2 and my Windows 7 machines. I kept having a few updates fail with Error 80244019 which seems related to missing files or issues with my WSUS setup.
+
+So for some bizarre reason I thought why not use Wireshark on it. And I noticed HTTP request to our WSUS server for files. I went to find them and from URL they did not exist; so I logged onto the box and went to the install directory and went into WsusContent, noticed that the files it was looking for were there, but they are marked as hidden. So I marked them not as hidden and ran the updates again and it worked.
+
+So if you are having issues with updates and error 80244019 it might be worth checking for all hidden files in the WsusContentand see if they are the ones your Windows Update Client are complaining about.
