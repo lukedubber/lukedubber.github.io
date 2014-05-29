@@ -8,7 +8,7 @@ title: Soylent
 <h2>Not people...</h2>
 
 <p>
-I have been following <a href="http://soylent.me/">Soylent</a> and reading the pros and cons and peoples thoughts on it.<br />
+I have been following [Soylent](http://soylent.me) and reading the pros and cons and peoples thoughts on it.<br />
 It seems there are three camps you either hate the idea and find it a slipper slop to the downfall of mankind as we know it, or you think it's the future and we will all just consume it.
 Then there is the middle ground people who are more like, why the hell not try it. 
 </p>
