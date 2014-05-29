@@ -3,24 +3,27 @@ layout: post
 title: Soylent
 ---
 
-<h1>SOYLENT!<h1>
-<img src="http://img.lukedubber.com/misc/soylent.jpg">
-<h2>Not people...</h2>
+SOYLENT!
+========
 
-<p>
+![MADE FROM PEOPLE!]({{site.image}}/misc/soylent.jpg)
+
+Not people...
+-------------
+
 I have been following [Soylent](http://soylent.me) and reading the pros and cons and peoples thoughts on it.<br />
 It seems there are three camps you either hate the idea and find it a slipper slop to the downfall of mankind as we know it, or you think it's the future and we will all just consume it.
 Then there is the middle ground people who are more like, why the hell not try it. 
-</p>
-<p>
+
+
 I am in the why the hell not group, so I decided to pick up some I purchased the 7 bags 21+meals for $85. My wife is crazy enough to try this with me so I figure we will finish off the supply very quickly.
-<br />
+
+
 The only down side is it takes 10-12 weeks to get it, once you get it any new orders ship within 1-2 weeks. I do like the idea, if you are living off this or consuming it daily you need it sooner then someone who has not started.
 So I can understand that. 
-</p>
-<p>
+
 My goal for now is to just replace Monday through Friday for breakfast and lunch with Soylent. All other meals will be normal food. I just want to try this to speed through things that take up to much time and I don't enjoy.
 Cooking dinner and having a nice meal with my wife and kids is great, but just throwing back lunch and running out the door is not. 
-<br />
+
 I will write another post at some time once I have received and tried it.
-</p>
+
