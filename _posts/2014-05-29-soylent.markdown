@@ -25,5 +25,15 @@ So I can understand that.
 My goal for now is to just replace Monday through Friday for breakfast and lunch with Soylent. All other meals will be normal food. I just want to try this to speed through things that take up to much time and I don't enjoy.
 Cooking dinner and having a nice meal with my wife and kids is great, but just throwing back lunch and running out the door is not. 
 
+Here is a chart to show what I hope my weekly meals will look like.
+
+|Meal          |Sunday |Monday  |Tuesday |Wednesday |Thursday | Friday |Saturday |
+|--------------|-------|--------|--------|----------|---------|--------|---------|
+|**Breakfest** |Food   |Soylent |Soylent |Soylent   |Soylent  |Soylent |Food     |
+|**Lunch**     |Food   |Soylent |Soylent |Soylent   |Soylent  |Soylent |Food     |
+|**Dinner**    |Food   |Soylent |Food    |Soylent   |Food     |Food    |Food     |
+
+
+
 I will write another post at some time once I have received and tried it.
 
