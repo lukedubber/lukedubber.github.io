@@ -1,21 +1,6 @@
 --- 
 layout: post
-status: publish
-published: true
 title: Hacker Spaces Alaska
-author: ldubber
-author_login: ldubber
-author_email: luke.dubber@gmail.com
-author_url: http://www.lukedubber.com
-wordpress_id: 60
-wordpress_url: http://www.lukedubber.com/?p=60
-date: 2010-11-28 12:49:44 -09:00
-categories: 
-- Uncategorized
-tags: []
-
-comments: []
-
 ---
 OK so I am a little sad. There are no hacker spaces in Alaska anywhere, I know we only have around 710,000 but since its Alaska I would think we would have one if not more. I know a bunch of people who all have shops for welding, wood working, aircraft maintenance, etc. I know we have a nice sized ham radio fans here even around Kenai.
 
@@ -23,4 +8,4 @@ I often wonder why it might be we don't have one. I would think that since we ha
 
 I have thought about starting one and I may start looking into that. But I think its a lot of planning. Just like some say need to get a few people who care a lot and from there.
 
-My data is based on<a href="http://hackerspaces.org/wiki/Hackerspaces" target="_blank"> hackerspaces.org</a>.
+My data is based on [hackerspaces.org](http://hackerspaces.org/wiki/Hackerspaces)

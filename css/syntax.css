@@ -89,3 +89,9 @@ table th {
     background: none repeat scroll 0 0 rgba(65, 131, 196, 0.4);
     text-shadow: none;
 }
+
+blockquote {
+border-left: 4px solid #DDD;
+padding: 0 15px;
+color: #777;
+}
