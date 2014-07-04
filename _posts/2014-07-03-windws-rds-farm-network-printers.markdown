@@ -24,11 +24,9 @@ This happened only on reconnect; it seemed the printers were being removed for s
 I had to open up a support ticket and it turns out they where! There was a reg key that had to be added that would tell the print spooler to not remove printers.
 The key was "RemovePrintersAtLogoff", which in my mind would make me think on log off not disconnec. 
 
-```
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Providers\Client 
-Side Rendering Print Provider]
-"RemovePrintersAtLogoff"=dword:00000000
-```
+    [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Providers\Client 
+    Side Rendering Print Provider]
+    "RemovePrintersAtLogoff"=dword:00000000
 
 Once that key was applied their printers stuck; which was fantastic since it was quite an issue. 
 
