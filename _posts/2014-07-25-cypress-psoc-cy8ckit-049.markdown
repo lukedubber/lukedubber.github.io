@@ -106,13 +106,18 @@ So pull it out give Windows a few seconds to think and the repeat the hold down 
 I hope this was helpful to someone. Writing this down helps me remember and also a great reference for myself if
 I forget things. 
 
+---
+**Update - 2014/08/06**
 
+Cypress has some great videos. [Cypress Training On-Demand](http://www.cypress.com/?id=1162)
+
+---
 Footnotes
--
-[^URT]: [Universal asynchronous receiver/transmitter](http://en.wikipedia.org/wiki/Universal_asynchronous_receiver/transmitter)
-[^GPIO]: [General-purpose input/output](http://en.wikipedia.org/wiki/GPIO)
-[^I2C]: [Inter-Integrated Circuit](http://en.wikipedia.org/wiki/I2c)
-[^SPI]: [Serial Peripheral Interface](http://en.wikipedia.org/wiki/Serial_Peripheral_Interface_Bus)
-[^IC]: [Integrated circuit](http://en.wikipedia.org/wiki/Integrated_circuit)
-[^MCU]: Microcontroller unit
-[^Tim G]: [Hackaday Comment](http://hackaday.com/2014/06/16/cypress-launches-5-arm-dev-board/comment-page-1/#comment-1575361)
+
+ [^URT]: [Universal asynchronous receiver/transmitter](http://en.wikipedia.org/wiki/Universal_asynchronous_receiver/transmitter)
+ [^GPIO]: [General-purpose input/output](http://en.wikipedia.org/wiki/GPIO)
+ [^I2C]: [Inter-Integrated Circuit](http://en.wikipedia.org/wiki/I2c)
+ [^SPI]: [Serial Peripheral Interface](http://en.wikipedia.org/wiki/Serial_Peripheral_Interface_Bus)
+ [^IC]: [Integrated circuit](http://en.wikipedia.org/wiki/Integrated_circuit)
+ [^MCU]: Microcontroller unit
+ [^Tim G]: [Hackaday Comment](http://hackaday.com/2014/06/16/cypress-launches-5-arm-dev-board/comment-page-1/#comment-1575361)
