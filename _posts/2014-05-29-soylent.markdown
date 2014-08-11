@@ -6,7 +6,7 @@ title: Soylent
 SOYLENT!
 ========
 
-![MADE FROM PEOPLE!]({{site.image}}/misc/soylent.jpg)
+![MADE FROM PEOPLE!]({{site.image}}/2014-05-29-soylent/soylent.jpg)
 
 Not people...
 -------------
