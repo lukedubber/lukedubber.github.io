@@ -10,7 +10,7 @@ So at $499 I got
 	<li>Pen input (Wacom)</li>
 	<li>Intel Core i5-3317U (1.7GHz)</li>
 	<li>128 GB Solid State</li>
-	<li>4gb Ram :(</a>
+	<li>4gb Ram :(</li>
 </ul>
 Ram is the only part I was bummed out about, the i5 CPU has Hypervisor support but with 4GB does not give you much, but for $499 its hard to pass up.
 </br>
